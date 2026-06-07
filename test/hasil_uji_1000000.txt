@@ -1,0 +1,12 @@
+Benchmark Penjumlahan Bilangan OpenMP
+Jumlah thread = 4
+
+==============================
+Jumlah Bilangan : 1000000
+Hasil sequential = 500000500000
+Hasil parallel   = 500000500000
+Waktu sequential = 0.003700 detik
+Waktu parallel   = 0.001100 detik
+Speedup = 3.36x
+Efisiensi = 84.09%
+==============================
