@@ -388,4 +388,4 @@ Implementasi parallel computing menggunakan OpenMP untuk penjumlahan bilangan me
 5. **Profile dengan tools seperti likwid atau perf** untuk mengidentifikasi bottleneck
 
 ## Link Video YouTube
-[Link Video Presentasi](https://youtu.be/placeholder)
+[Link Video Presentasi](https://youtu.be/s7VcrmTGKcI?si=qZv5o0fldkO9CdN3)
